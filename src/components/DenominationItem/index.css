@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.denomination-item {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+.denomination-button {
+  height: 40px;
+  width: 90%;
+  border: 2px solid #c4c4c4;
+  background-color: #382f5a;
+  border-radius: 5px;
+  color: #d4d2db;
+  font-weight: 600;
+  font-size: 30px;
+}
